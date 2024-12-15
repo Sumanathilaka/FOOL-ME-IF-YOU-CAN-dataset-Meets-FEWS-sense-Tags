@@ -2,7 +2,9 @@
 This dataset version contains the FOOLMEIFYOUCAN dataset mapped with the FEWS sense Tags.
 You can access original papers from here.
 
+- FOOLMEIFYOUCAN!AnAdversarialDataset to Investigate the Robustness of LMs in Word Sense Disambiguation
 https://aclanthology.org/2024.emnlp-main.290/
+- Fews Dataset Paper
 https://nlp.cs.washington.edu/fews/
 
 
