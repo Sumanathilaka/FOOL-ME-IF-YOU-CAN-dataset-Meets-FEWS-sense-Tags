@@ -1,0 +1,1 @@
+{"0": "seal_animal", "1": "seal_close"}

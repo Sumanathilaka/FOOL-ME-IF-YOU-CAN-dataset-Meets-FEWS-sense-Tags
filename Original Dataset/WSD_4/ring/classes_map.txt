@@ -1,0 +1,1 @@
+{"0": "ring_arena", "1": "ring_jewlery"}

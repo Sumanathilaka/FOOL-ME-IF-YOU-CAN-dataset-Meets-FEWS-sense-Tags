@@ -1,0 +1,80 @@
+in java programs , it can be used to ensure that a sort method correctly sorts a list .
+history browsercms originally started as a commercial java project at browsermedia in 2003 .
+regular expression support is part of the standard library of many programming languages , including java and python , and is built into the syntax of others , including perl and ecmascript .
+apache pivot is an open-source platform for building rich web applications in java or any jvm - compatible language .
+programmatic support , filters , converters there are opendocument-oriented libraries available for languages such as java , python , ruby , c++ and c# .
+in c , c++ , d and kotlin programs this is a function named main ; in java it is a static method named main , and in c# it is a static method named main .
+xwiki is a free wiki software platform written in java with a design emphasis on extensibility .
+max/msp/jitter comes with about 600 of these objects as the standard package ; extensions to the program can be written by third-party developers as max patchers ( e.g. by encapsulating some of the functionality of a patcher into a sub-program that is itself a max patch ) , or as objects written in c , c++ , java , or javascript .
+hotjava views was a productivity software suite developed by sun microsystems and implemented in java .
+many software libraries are written in system programming language such as c or c++ ; in order to use these libraries from another ( usually higher-level ) language such as java , common lisp , python or lua , a binding to the library must be created in that language , possibly requiring the recompilation of the language 's code depending on the amount of modification necessary .
+blosxom has inspired derivatives in various languages , including ( in python ) , ( in java ) , clojsom ( in clojure ) , blosxonomy ( in ruby ) , blosxom.php ( in php ) , and hobix ( in ruby ) .
+it is a desktop application written in the java programming language .
+actionscript 2.0 also introduced class-based inheritance syntax so that developers could create classes and interfaces , much as they would in class-based languages such as java and c++ .
+some javascript libraries allow for easier integration of javascript with other web development technologies , such as css , php , ruby , and java .
+its curriculum includes java , sql and .net framework .
+in many programming languages ( especially statically-typed programming language such as c , c++ , java ) the return type must be explicitly specified when declaring a function .
+desktop charting in 2014 , tradermade license vb and java based versions of its software .
+ta-lib can be reused by trading software developers working with excel , .net , java , perl , python , php , c or c++ .
+openlaszlo server is a java servlet that compiles lzx applications into executable binaries for targeted run-time environments .
+currently lucene search 2.1 , which is written in java and based on lucene library 2.3 , is used .
+history algoworks was founded in 2006 by indian institute of technology alumni and started with providing development and consultancy services in .net and java technology .
+history the java implementation of libphonenumber was first released as open source in 2010 .
+api documentum functionality is made available through application programming interfaces ( api ) including web services , webdav , ftp , java , documentum foundation classes , documentum query language ( dql ) , web development kit api ( wdk ) , smb/cifs and cmis .
+pacific knowledge systems ( pks ) uses a commercial product called rippledown expert that is based on multiple classification ripple down rules the java data mining software weka has a version of induct rdr called ridor .
+prototype damon prototype is a free and open source software released under the terms of the lgpl license and written in java .
+oracle determinations engine : the engine used by both oracle web determinations and oracle determinations server , it is also available as a native java and .net api .
+examples basic example the following example illustrates creating a connection to an xml database , submitting an xquery expression , then processing the results in java .
+getitemasstring ( null ) ) ; -rcb- / / free all resources created by the connection conn. close ( ) ; binding a value to an external variable the following example illustrates how a java value can be bound to an external variable in an xquery expression .
+microsoft announced on july 29 , 1996 that it would develop a native version of ie for '' solaris and other popular variants of unix '' to be available '' by the end of 1996 '' which would have '' equivalent functionality as that provided in microsoft internet explorer 3.0 '' , thus '' delivering on its commitment to provide full-featured web browser support on all major operating system platforms '' as well as '' supporting and promoting open standards , including html , activex and java '' .
+the current code is written in java and based on the osgi component framework .
+instead of using logic flops , switches , etc. , these two games instead teach the player the fundamentals of object oriented programming like java , c++ , or c# .
+hepwork runs on any platforms ( windows , mac , linux , etc. ) where java can be installed .
+the game engine has been ported , from the original 6502 , into java , with some game design tools in c# .
+fifteen usaaf lb-30 ( b-24a ) bombers were deployed in java in early 1942 to reinforce the b-17-equipped 19th bombardment group in a vain attempt to stem the japanese advance .
+numerous core z/os subsystems and applications rely on unix system services , including java .
+net-assemblies , the attributed graph grammar system ( java ) is a programming language for computing on graphs by the directed application of graph transformation rules .
+they are developed in the form of java byte code .
+rdos could be written in tcl , java or c++ and interact with each other regardless of the language .
+excerpts from important open-source code systems like the apache web server , the hsqldb java relational database engine , the netbsd unix distribution , the perl language , the tomcat application server , and the x window system are presented .
+xstream is a java library to serialize objects to xml ( or json ) and back again .
+however , it was later revealed lorena is 30 and from a region near java , indonesia .
+january 17 a truce is declared between nationalist indonesia and dutch troops in java .
+the gear is loaded into three small boats , which head due north towards java .
+it is found in the himalaya and sumatra , java , borneo , luzon , sulawesi , seram and new guinea .
+it was when three major forces ( mataram , banten , and voc ) having conflicts in the island of java in the early 17th century .
+the collapsing agricultural market caused widespread financial losses , and led to his 1824 decision to temporarily abandon farming , his wife and his children , and to leave for java aboard a swift frigate named '' abel tasman '' .
+these formations had left egypt for java by the end of january .
+on 12 february , the destroyer got underway from prigi bay , java , in a dense fog .
+javanese architecture reminiscent of borobudur of java can also be seen on the church walls and facade .
+distribution the range of the plain tiger extends from africa and southern europe , eastwards via sri lanka , india , and myanmar to china , java and sulawesi .
+it contains only species , zeurrora indica , is found in india , china , bangladesh and on peninsular malaya and java , as well as in new guinea .
+trade with the various neighboring kingdoms of malacca and srivijaya in malaya and java brought with it foods and cooking methods which are still commonly used in the philippines today , such as bagoong ( malay : belacan ) , patis , puso ( malay : ketupat ) , rendang , kare-kare and the infusion of coconut milk in condiments , such as laing and ginataang manok ( chicken stewed in coconut milk ) .
+the discovery of the plate is cited as evidence of cultural links between the classical tagalog people and the various contemporary asian civilizations , most notably the java medang kingdom , the srivijaya empire , and the middle kingdoms of india .
+in java , indonesia , the 9th-century mendut temple near borobudur in magelang was dedicated to dhyani buddha vairocana .
+the black-striped squirrel ( callosciurus nigrovittatus ) is found throughout java , sumatra , southern thailand , the malay peninsula , and numerous small islands .
+they are 8 clubs from java , two from sumatera and papua representative three clubs , while kalimantan island will representative four .
+portrait of jan ruff o'herne taken at bandoeng , java , shortly before the japanese invasion in march 1942 this is a list of human rights activists who were forced by the japanese imperial army to work in military brothel as '' comfort women '' during world war ii .
+it is found in india , china , taiwan , borneo , java and sumatra .
+liman river is a river in northern java , indonesia .
+it contains only one species , pezetaera hoplanthes , which is found on java .
+distribution and habitat asian palm civets are native to india , nepal , bangladesh , bhutan , myanmar , sri lanka , thailand , singapore , peninsular malaysia , sabah , sarawak , brunei darussalam , laos , cambodia , vietnam , china , philippines and the indonesia islands of sumatra , java , kalimantan , bawean and siberut .
+barong is a lion - like creature and character in the mythology of bali , java , borneo , andalas , indonesia .
+biology the larval foodplant is a species of aristolochia , aristolochia foveolata subspecies troides cuneifera cuneifera java .
+she studied electronic music with gilius van bergeijk and jan boerman , and gamelan and singing with several teachers in bali and java .
+it occurs in the mekong , chao phraya and mae khlong basins , malay peninsula as well as borneo , java and sumatra .
+geographic range found in nepal , thailand , cambodia , laos , vietnam , northern west malaysia and on the indonesia island of java .
+following his relief from active military service in europe , white embarked upon a global journey that consisted of egypt , palestine , india , burma , the malay peninsula , java , china , japan , and the philippines .
+gibbons occur in tropical and subtropical rainforests from northeast india to indonesia and north to southern china , including the islands of sumatra , borneo , and java .
+as a result the battalion was sent to british malaya , singapore and java to help disarm the japanese occupiers and restore law and order .
+he is best known for his work on the butterflies of java .
+an indonesian endemic , the javan hawk-eagle occurs in humid tropical forests of java .
+this most northerly of the halcyonidae is resident over much of its range , but northern populations are migratory and the wintering range extends to sri lanka , thailand , borneo and java .
+gamelan is traditional ensemble music of java and bali in indonesia , made up predominantly of percussive instruments .
+japanese occupation and the indonesian revolution garuda pancasila is the most visible legacy of sultan hamid ii following the japanese occupation of indonesia in 10 march 1942 , he was interned by the japanese for three years in a java prison camp due to close ties with the dutch .
+it is found in indonesia and malaysia , where it is found in sumatra , java and northern montane areas of borneo .
+the sundanese are an ethnic group native to the western part of the indonesia island of java .
+acrocercops pentacycla is a moth of the gracillariidae family , known from java , indonesia .
+the evidence for the earliest cultivation , however , comes from eighth-century stone inscriptions from java , which show kings levied taxes in rice .
+salak pondoh salak pondoh is an important fruit in the yogyakarta province on the island of java .
+2006 earthquake on 27 may 2006 an earthquake measuring 6.3 on the richter scale struck near java 's southern coast causing widespread damage .
