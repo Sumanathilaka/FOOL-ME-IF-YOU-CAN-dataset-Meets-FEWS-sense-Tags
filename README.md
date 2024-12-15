@@ -1,5 +1,5 @@
-# The Final Dataset 
-This version of the dataset contains the FOOLMEIFYOUCAN dataset mapped with the FEWS sense Tags.
+# Fool me if you can dataset Meets Fews Sense Tag
+This dataset version contains the FOOLMEIFYOUCAN dataset mapped with the FEWS sense Tags.
 You can access original papers from here.
 
 https://aclanthology.org/2024.emnlp-main.290/
