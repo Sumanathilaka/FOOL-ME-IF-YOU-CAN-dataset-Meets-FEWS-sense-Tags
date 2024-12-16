@@ -1,6 +1,6 @@
 sentence,id,name,senseid
-Apple ’s employees are eating fruits . ,0, apple,apple.noun.12
-Apple planted trees on its company ’s property . ,0, apple,apple.noun.12
+Apple ï¿½s employees are eating fruits . ,0, apple,apple.noun.12
+Apple planted trees on its company ï¿½s property . ,0, apple,apple.noun.12
 Apple has snacks in the kitchen for all employees . ,0, apple,apple.noun.12
 Apple offers juice to all employees . ,0, apple,apple.noun.12
 Fruits are prohibited in the conference rooms of Apple during meetings . ,0, apple,apple.noun.12
@@ -16,14 +16,14 @@ The Apple iPhone can show you photos of fruit trees . ,0, apple,apple.noun.12
 The Apple iPhone gives you recipes for pies . ,0, apple,apple.noun.12
 "The design of the new Apple iPhone was as carefully crafted as the branches of an tree , each feature seamlessly integrated . ",0, apple,apple.noun.12
 The excitement surrounding the latest Apple product launch was as invigorating as the first sip of fresh juice on a summer day . ,0, apple,apple.noun.12
-Apple ’s annual keynote events are anticipated with the same enthusiasm as a fresh batch of cider . ,0, apple,apple.noun.12
+Apple ï¿½s annual keynote events are anticipated with the same enthusiasm as a fresh batch of cider . ,0, apple,apple.noun.12
 The new iOS update from Apple introduced features that were as appealing as homemade pie . ,0, apple,apple.noun.12
 Apple 's commitment to innovation is like an orchard in perpetual harvest . ,0, apple,apple.noun.12
-The vibrant colors of the new iMac lineup add a refreshing flavor to Apple ’s product range . ,0, apple,apple.noun.12
+The vibrant colors of the new iMac lineup add a refreshing flavor to Apple ï¿½s product range . ,0, apple,apple.noun.12
 The launch event for the new Apple Watch was as eagerly awaited as the first bite of a homemade pie . ,0, apple,apple.noun.12
 "Each Apple product peels away the complexities of technology , making it accessible and enjoyable for everyone . ",0, apple,apple.noun.12
-The simplicity and elegance of Apple ’s design peel back the complexities of modern technology . ,0, apple,apple.noun.12
-"Apple ’s keynote presentations are anticipated events , drawing in crowds much like an annual cider festival . ",0, apple,apple.noun.12
+The simplicity and elegance of Apple ï¿½s design peel back the complexities of modern technology . ,0, apple,apple.noun.12
+"Apple ï¿½s keynote presentations are anticipated events , drawing in crowds much like an annual cider festival . ",0, apple,apple.noun.12
 "While eating an apple , I was holding my iPhone . ",1, apple,apple.noun.12
 He took a bite out of an apple as he was thinking about a new logo for his phone company . ,1, apple,apple.noun.12
 While baking an apple pie a new software update was released . ,1, apple,apple.noun.12
@@ -64,11 +64,11 @@ The fisherman brought money to the bank . ,0, bank,apple.noun.0
 Many bank employees meet at the river for fishing . ,0, bank,apple.noun.0
 While swimming she thought about getting a credit card at the bank . ,0, bank,apple.noun.0
 The bank granted a loan for helping animals living in the local river . ,0, bank,apple.noun.0
-The bank 's new mobile app allows users to monitor their accounts as easily as tracking a stream ’s flow through a digital map . ,0, bank,apple.noun.0
-"Just as a river 's current can change direction suddenly , market fluctuations can influence a bank ’s financial strategies . ",0, bank,apple.noun.0
+The bank 's new mobile app allows users to monitor their accounts as easily as tracking a stream ï¿½s flow through a digital map . ,0, bank,apple.noun.0
+"Just as a river 's current can change direction suddenly , market fluctuations can influence a bank ï¿½s financial strategies . ",0, bank,apple.noun.0
 "The bank 's headquarters , located on the shore of the financial district , stands as a beacon of economic stability . ",0, bank,apple.noun.0
 "During times of economic instability , a bank must navigate through financial marsh to find safe investment opportunities . ",0, bank,apple.noun.0
-"The bank ’s detailed financial reports are akin to sediment layers , revealing the historical performance of its assets . ",0, bank,apple.noun.0
+"The bank ï¿½s detailed financial reports are akin to sediment layers , revealing the historical performance of its assets . ",0, bank,apple.noun.0
 "To prevent economic erosion , the bank has established robust policies that protect its assets and maintain market confidence . ",0, bank,apple.noun.0
 "The bank 's financial health is as crucial to the economy as a river is to the ecosystem , providing a steady flow of capital . ",0, bank,apple.noun.0
 "By offering waterside property loans , the bank supports real estate development in prime locations . ",0, bank,apple.noun.0
@@ -120,12 +120,12 @@ The baseball game paused as a bat darted across the foul line . ,0, bat,bank.nou
 "A bat 's flight pattern was erratic as it navigated the outfield , avoiding the bright lights . ",0, bat,bank.noun.0
 "Wearing his helmet , the batter looked up just in time to see a bat disappear into the night . ",0, bat,bank.noun.0
 The team paused their practice to watch a bat hunt for food near the bases . ,0, bat,bank.noun.0
-The catcher ’s keen eyes caught sight of a bat diving for insects near the infield . ,0, bat,bank.noun.0
+The catcher ï¿½s keen eyes caught sight of a bat diving for insects near the infield . ,0, bat,bank.noun.0
 "The pitcher 's focus remained unbroken, even with a bat flying overhead . ",0, bat,bank.noun.0
 The umpire called time when a bat swooped down near the pitcher 's mound . ,0, bat,bank.noun.0
 "A bat flew in tight circles above the field , almost blending into the night sky . ",0, bat,bank.noun.0
 "He swung the bat , trying to kill insects . ",1, bat,bank.noun.0
-"Using a bat , he skillfully knocked the piñata that was hanging in the tree . ",1, bat,bank.noun.0
+"Using a bat , he skillfully knocked the piï¿½ata that was hanging in the tree . ",1, bat,bank.noun.0
 A kid lost his baseball bat while playing in a cave . ,1, bat,bank.noun.0
 "While watching a horror film about vampires and blood , he held his bat closely . ",1, bat,bank.noun.0
 "With a swift motion, he struck the ball using the bat , feeling the echo . ",1, bat,bank.noun.0
@@ -143,12 +143,12 @@ The ball glided gracefully through the night sky after it was hit by the bat . ,
 "With a powerful swing of the bat , the player sent the ball soaring , his arm movements as graceful as a wing in flight . ",1, bat,bank.noun.0
 "the batter , focused and ready , gripped the bat tightly in the perfect nocturnal atmosphere . ",1, bat,bank.noun.0
 "The flight of the baseball was swift and sure as the batter connected with the bat , sending it toward the outfield . ",1, bat,bank.noun.0
-"The pitcher ’s fastball was no match for the batter ’s keen eye and quick bat , much like a mammal outmaneuvering its prey . ",1, bat,bank.noun.0
-The fur on the batter ’s gloves provided extra grip as he swung the bat . ,1, bat,bank.noun.0
-"The night game had a nocturnal feel , with the batter ’s every move with the bat illuminated by the bright stadium lights . ",1, bat,bank.noun.0
+"The pitcher ï¿½s fastball was no match for the batter ï¿½s keen eye and quick bat , much like a mammal outmaneuvering its prey . ",1, bat,bank.noun.0
+The fur on the batter ï¿½s gloves provided extra grip as he swung the bat . ,1, bat,bank.noun.0
+"The night game had a nocturnal feel , with the batter ï¿½s every move with the bat illuminated by the bright stadium lights . ",1, bat,bank.noun.0
 The players joked about the vampire that had once flown into the stadium during a night game while they were holding their bat . ,1, bat,bank.noun.0
 The players with the bat in their hand shared stories about vampires during a particularly eventful night game . ,1, bat,bank.noun.0
-"The batter ’s stance was steady , his grip on the bat firm , like he wanted to hit an insect . ",1, bat,bank.noun.0
+"The batter ï¿½s stance was steady , his grip on the bat firm , like he wanted to hit an insect . ",1, bat,bank.noun.0
 "As a biologist , he kept reading about mitosis and meiosis , while lying in his cell . ",0, cell,bank.noun.0
 They tested his DNA and ran many experiments to match it with the person they had in the cell . ,0, cell,bank.noun.0
 "Although it was a cell , it had a telescope and many scientific devices to continue running their experiments . ",0, cell,bank.noun.0
@@ -216,13 +216,13 @@ The arm of the crane extended towards the sky like the outstretched wing of a hu
 "The construction crane operated with the precision of a fishing bird , never missing its mark . ",0, crane,bank.noun.9
 "The crane 's arm extended like a bird 's wingspan , reaching high to place the steel beam . ",0, crane,bank.noun.9
 "As the construction site bustled , the crane operated smoothly , lifting materials with the precision of a feather . ",0, crane,bank.noun.9
-"The crane ’s hook , like the sharp beak of a bird , carefully grasped the heavy load . ",0, crane,bat.noun.0
+"The crane ï¿½s hook , like the sharp beak of a bird , carefully grasped the heavy load . ",0, crane,bat.noun.0
 "The bright yellow crane stood out against the gray sky , its color reminiscent of a bird 's plumage . ",0, crane,bat.noun.0
 "The crane moved methodically , much like a bird during its migration , ensuring each piece was perfectly positioned . ",0, crane,bat.noun.0
 "The crane operator marked its territory with caution tape and barriers , ensuring the safety of the workers below . ",0, crane,bat.noun.0
 "In a graceful flight , the crane 's arm swung around to place the concrete block exactly where it was needed . ",0, crane,bat.noun.0
 "The mechanic crane stood tall like a predator on the hunt , its powerful arm ready to lift heavy loads with precision . ",0, crane,bat.noun.0
-The crane ’s presence at the construction site marked the beginning of a breeding ground for new buildings . ,0, crane,bat.noun.0
+The crane ï¿½s presence at the construction site marked the beginning of a breeding ground for new buildings . ,0, crane,bat.noun.0
 "The crane , like a predator , hunted for heavy loads to lift and place with accuracy and strength . ",0, crane,bat.noun.0
 The graceful crane soared above the steel beams of the skyscraper under construction . ,1, crane,bat.noun.0
 "A crane circled overhead , its elegant form contrasting with the industrial backdrop of the metal factory . ",1, crane,bat.noun.0
@@ -243,10 +243,10 @@ The crane 's elegant dance captivated onlookers as it gracefully wove its way be
 "As the crane fished in the shallow waters , its sharp beak acted like a hook , swiftly catching small fish and insects . ",1, crane,bat.noun.0
 "With each delicate step , the crane maintained perfect balance , as if it had an internal counterweight that kept it stable on one leg . ",1, crane,bat.noun.0
 "The crane extended its neck , resembling the jib of a machine , to reach for fish swimming just out of reach . ",1, crane,bat.noun.0
-"The crane ’s powerful legs allowed it to lift its entire body out of the water with a single , effortless motion . ",1, crane,bat.noun.0
+"The crane ï¿½s powerful legs allowed it to lift its entire body out of the water with a single , effortless motion . ",1, crane,bat.noun.0
 "The crane 's slender legs moved like cable supports , giving it both flexibility and strength as it walked through the wetland . ",1, crane,bat.noun.0
 The birdwatchers set up their tripods and cameras on the outrigger platforms to get a stable view of the crane in its natural habitat . ,1, crane,bat.noun.0
-"The crane ’s stability on one leg was remarkable , allowing it to stand perfectly still while hunting for prey . ",1, crane,bat.noun.0
+"The crane ï¿½s stability on one leg was remarkable , allowing it to stand perfectly still while hunting for prey . ",1, crane,bat.noun.0
 "The crane carried a small cargo of fish in its beak , bringing it back to feed its hungry chicks . ",1, crane,bat.noun.0
 "The crane acted as the operator of its environment , using its keen senses to navigate the wetlands . ",1, crane,bat.noun.0
 "After the romantic dinner they had , they ordered a date cake . ",0, date,bat.noun.0
@@ -339,7 +339,7 @@ The therapist measured the swelling around the injured digit and included this d
 "The patient was asked to straighten each digit , and the total count of functional movements was recorded in the medical file . ",1, digit,cell.noun.3
 The severity of the digit injury was calculated as a fraction of the overall hand trauma experienced by the patient . ,1, digit,cell.noun.3
 "The value of the patient 's grip strength was significantly reduced due to the impaired digit , affecting their ability to perform daily tasks . ",1, digit,cell.noun.3
-The patient ’s unique identifier in the hospital system included details about the digit injury for easy reference by medical staff . ,1, digit,cell.noun.3
+The patient ï¿½s unique identifier in the hospital system included details about the digit injury for easy reference by medical staff . ,1, digit,cell.noun.3
 "A coding system used in the medical report specifically noted the injured digit , allowing for accurate tracking of treatment progress . ",1, digit,cell.noun.3
 In the calcualtion of the patient 's overall hand function score a doctor included the digit 's range of motion . ,1, digit,cell.noun.3
 An analysis of the patient 's digit mobility revealed a pattern that was consistent with the statistics of similar injuries . ,1, digit,cell.noun.3
@@ -348,17 +348,17 @@ As the radiologist noted that the alignment of the bones in the digit would be c
 The total time required for the digit to heal was estimated based on past statistics of similar injuries . ,1, digit,cell.noun.3
 "He discussed the variable outcomes of the digit surgery , depending on how well the patient followed post - operative care instructions . ",1, digit,cell.noun.3
 The patient 's ability to extend the digit fully was used as a key identifier of recovery milestones . ,1, digit,cell.noun.3
-The calculation of the patient ’s hand strength included the functional status of each digit . ,1, digit,cell.noun.3
+The calculation of the patient ï¿½s hand strength included the functional status of each digit . ,1, digit,cell.noun.3
 "The healing process of the digit was closely monitored , with data points recorded at each appointment . ",1, digit,cell.noun.3
 The patient 's ability to flex the digit was a variable in determining the success of the treatment plan . ,1, digit,cell.noun.3
 "The patient 's digit displayed significant improvement , which was reflected in the updated statistics in their medical record . ",1, digit,cell.noun.3
-"The therapist noted that the patient ’s digit had regained a fraction of its original flexibility , indicating progress . ",1, digit,cell.noun.3
+"The therapist noted that the patient ï¿½s digit had regained a fraction of its original flexibility , indicating progress . ",1, digit,cell.noun.3
 The doctor included the state of the digit in the overall calculation of the patient 's hand function . ,1, digit,cell.noun.3
-The patient ’s digit injury was documented using a specific code in the hospital 's electronic health record system . ,1, digit,cell.noun.3
+The patient ï¿½s digit injury was documented using a specific code in the hospital 's electronic health record system . ,1, digit,cell.noun.3
 The physical therapy plan was adjusted based on the latest data regarding the patient 's digit mobility . ,1, digit,cell.noun.3
 The healing progress of the digit was tracked using detailed statistics from each physical therapy session . ,1, digit,cell.noun.3
-The final sum of the patient ’s hand function score included the impact of the digit injury on overall performance . ,1, digit,cell.noun.3
-"The total recovery time for the digit was influenced by multiple factors , including the patient ’s adherence to therapy . ",1, digit,cell.noun.3
+The final sum of the patient ï¿½s hand function score included the impact of the digit injury on overall performance . ,1, digit,cell.noun.3
+"The total recovery time for the digit was influenced by multiple factors , including the patient ï¿½s adherence to therapy . ",1, digit,cell.noun.3
 The dentist told her that gum is not good for her teeth and oral health . ,0, gum,cell.noun.3
 "The gum was stuck on her teeth , she couldn't chew properly . ",0, gum,cell.noun.3
 The dentist prescribed medicated gum for her mouth and teeth health . ,0, gum,cell.noun.3
@@ -445,12 +445,12 @@ The bustling markets in Java serve as an interface between local artisans and to
 Navigating the complex terrain of Java island without an IDE is like coding without tools . ,1, java,crane.noun.2
 The tourism framework on Java island ensures a well-rounded experience for visitors . ,1, java,crane.noun.2
 "The conservation programs in Java act as a compiler , ensuring that natural resources are used efficiently and sustainably . ",1, java,crane.noun.2
-The library of traditional music from Java is a treasure trove of the island’s auditory heritage . ,1, java,crane.noun.2
-"Just as a compiler checks for errors , the local government of Java monitors and regulates the island’s environmental practices . ",1, java,crane.noun.2
+The library of traditional music from Java is a treasure trove of the islandï¿½s auditory heritage . ,1, java,crane.noun.2
+"Just as a compiler checks for errors , the local government of Java monitors and regulates the islandï¿½s environmental practices . ",1, java,crane.noun.2
 "He is an experienced programmer that travels through indonesia , stopping by in Java . ",1, java,crane.noun.2
 She loves the island of Java as much as her passion for coding . ,1, java,crane.noun.2
 Java 's rich cultural heritage was noted in a big dataset for research purposes . ,1, java,crane.noun.2
-The educational frameworks in Java island’s universities foster a deep understanding of both traditional and modern knowledge . ,1, java,crane.noun.2
+The educational frameworks in Java islandï¿½s universities foster a deep understanding of both traditional and modern knowledge . ,1, java,crane.noun.2
 The software engineer was shocked as he arrived at his new work destination in Java . ,1, java,crane.noun.2
 Java 's beautiful nature makes it an attractive for software companies . ,1, java,crane.noun.2
 He thought about quitting his job as a developer and travelling to Java . ,1, java,crane.noun.2
@@ -650,8 +650,8 @@ On a hot afternoon the pitcher was wishing to interrupt the training session for
 The coach of the pitcher prepared cold beverages for all team members . ,1, pitcher,digit.noun.4
 "During the seventh - inning stretch , the pitcher took a moment to drink some water , rehydrating for the final innings ahead . ",1, pitcher,digit.noun.4
 "Each pitcher from the young player felt like liquid steel , strong and unstoppable in its trajectory . ",1, pitcher,digit.noun.4
-The clear glass through which the audience watched the game seemed to amplify the pitcher ’s every move . ,1, pitcher,digit.noun.4
-The pitcher ’s icy determination matched the ice - cold beverage that awaited him after the game . ,1, pitcher,digit.noun.4
+The clear glass through which the audience watched the game seemed to amplify the pitcher ï¿½s every move . ,1, pitcher,digit.noun.4
+The pitcher ï¿½s icy determination matched the ice - cold beverage that awaited him after the game . ,1, pitcher,digit.noun.4
 The pitcher took a long sip of his water after winning the game . ,1, pitcher,digit.noun.4
 "The young pitcher dreamed of becoming a vessel of talent and skill , carrying his team to victory with every game . ",1, pitcher,digit.noun.4
 After every game the pitcher treats himself with his favorite lemonade . ,1, pitcher,digit.noun.4
@@ -662,10 +662,10 @@ Jumping into the cold water after the exhausting game is the pitcher 's favorite
 "As the pitcher focused on the batter , he noticed a fan in the stands sipping juice from a plastic cup . ",1, pitcher,digit.noun.4
 The pitcher drank a glass of milk between innings to keep his energy up during the intense game . ,1, pitcher,digit.noun.4
 "After the game , the pitcher relaxed in the dugout with a cup of hot tea , reflecting on his performance . ",1, pitcher,digit.noun.4
-The pitcher ’s morning routine included a strong cup of coffee to wake him up before practice . ,1, pitcher,digit.noun.4
+The pitcher ï¿½s morning routine included a strong cup of coffee to wake him up before practice . ,1, pitcher,digit.noun.4
 The coach offered the pitcher a refreshing beverage after he struck out three batters in a row . ,1, pitcher,digit.noun.4
 The pitcher wiped sweat from his brow and took a quick drink from the cooler beside the dugout . ,1, pitcher,digit.noun.4
-The liquid in the pitcher ’s water bottle sloshed as he adjusted his grip on the ball for the next pitch . ,1, pitcher,digit.noun.4
+The liquid in the pitcher ï¿½s water bottle sloshed as he adjusted his grip on the ball for the next pitch . ,1, pitcher,digit.noun.4
 "The pitcher adjusted the handle of his glove , ensuring it was secure before throwing his next pitch . ",1, pitcher,gum.noun.3
 The pitcher took a long sip from his water bottle and then carefully replaced the lid before returning to the mound . ,1, pitcher,gum.noun.3
 The pupil said that he wants to be an optometrist when he grows up . ,0, pupil,gum.noun.3
@@ -795,16 +795,16 @@ The cobblestone streets of the old city provided a perfect backdrop for the rock
 "The limestone cliffs near the venue provided a stunning natural backdrop for the rock festival , adding to the overall experience . ",0, rock,java.noun.0
 A rock was blocking the way for the guitarist . ,1, rock,java.noun.0
 A drummer found a rock while hiking in the woods . ,1, rock,java.noun.0
-The band ’s tour bus rolled past towering rock formations . ,1, rock,java.noun.0
+The band ï¿½s tour bus rolled past towering rock formations . ,1, rock,java.noun.0
 "The concert echoed through the canyon , bouncing off the rock . ",1, rock,java.noun.0
 "In the shadow of the ancient rock formation , a music festival took place . ",1, rock,java.noun.0
 The album cover featured a striking image of a lone rock . ,1, rock,java.noun.0
 The festival took place in an amphitheater carved from rock . ,1, rock,java.noun.0
-"Through the ancient rock corridors , the song’s melody echoed . ",1, rock,java.noun.0
-The guitarist ’s finger flew over the strings while he was performing on a rock . ,1, rock,java.noun.0
+"Through the ancient rock corridors , the songï¿½s melody echoed . ",1, rock,java.noun.0
+The guitarist ï¿½s finger flew over the strings while he was performing on a rock . ,1, rock,java.noun.0
 The album cover was a lone figure standing before a towering rock monolith . ,1, rock,java.noun.0
 The music from the band was as timeless as the rock formation surrounding them . ,1, rock,java.noun.0
-The singer ’s voice reverberated off the rock cliffs . ,1, rock,java.noun.0
+The singer ï¿½s voice reverberated off the rock cliffs . ,1, rock,java.noun.0
 The music concert took place on a solid rock landscape . ,1, rock,java.noun.0
 The rock formation impressed many festival visitors . ,1, rock,java.noun.0
 A rock was thrown into the water while he was playing the guitar . ,1, rock,java.noun.0
@@ -942,7 +942,7 @@ A spring project involved coiling metal tubing for plumbing installations . ,0, 
 "The mechanism of seasonal change brought spring in all its glory , with intricate processes unfolding in nature . ",0, spring,match.noun.0
 "The energy of spring was palpable , with vibrant colors and bustling activity filling the air . ",0, spring,match.noun.0
 "The coiled buds on the trees began to open , releasing new leaves and flowers to greet the spring . ",0, spring,match.noun.0
-"Spring ’s compression of new growth into every available space transformed the landscape into a lush , green paradise . ",0, spring,match.noun.0
+"Spring ï¿½s compression of new growth into every available space transformed the landscape into a lush , green paradise . ",0, spring,match.noun.0
 The spring in the door gleamed under the sun in the garden . ,1, spring,match.noun.0
 "The mattress had a comfortable spring system for support , perfect for breezy mornings . ",1, spring,match.noun.0
 A faulty spring caused the garden door to slam shut unexpectedly . ,1, spring,match.noun.0
@@ -962,10 +962,10 @@ The trampoline 's spring provided hours of entertainment for children during the
 "As she replaced the spring in her watch , she looked out the window to see flowers blooming in the garden . ",1, spring,match.noun.11
 "The tension in the spring was similar to the refreshing feeling after a rain , restoring the clock to perfect working order . ",1, spring,match.noun.11
 The warmth of the sunshine seemed to make the spring mechanism in the toy soldier work more smoothly . ,1, spring,match.noun.11
-"After spending the morning fixing the garden gate ’s spring , he enjoyed the sight of tulips blooming . ",1, spring,match.noun.11
+"After spending the morning fixing the garden gate ï¿½s spring , he enjoyed the sight of tulips blooming . ",1, spring,match.noun.11
 "The spring in the door hinge allowed it to swing open effortlessly , much like a flower blooming in the sunlight . ",1, spring,match.noun.11
 The renewal of the rusty spring in the old machine mirrored the fresh growth in her garden . ,1, spring,match.noun.11
-"The birdsong filled the air as he worked on the spring in his lawnmower , preparing for the season ’s first cut . ",1, spring,match.noun.11
+"The birdsong filled the air as he worked on the spring in his lawnmower , preparing for the season ï¿½s first cut . ",1, spring,match.noun.11
 "cleaning the garage revealed a forgotten box of gadgets , all with spring that needed oiling . ",1, spring,match.noun.11
 "He marveled at the complexity of the spring mechanism , much like he admired the intricate patterns of flowers in his garden . ",1, spring,match.noun.11
 She leaned against the tree trunk while waiting for her car to be repaired . ,0, trunk,match.noun.11
@@ -1043,7 +1043,7 @@ Her Sunday ritual included polishing her steely nail with care and attention to 
 "After spending hours at the salon , her rusty nail was beautifully manicured and painted in a shimmering gold color . ",1, nail,nail.noun.0
 He nervously bit his ironlike nail while waiting for the results of his important job interview . ,1, nail,nail.noun.0
 Her corroded nail tapped rhythmically on the table as she listened to the presentation . ,1, nail,nail.noun.0
-"Despite her best efforts , she couldn’t stop her habit of biting her metallic nail during stressful situations . ",1, nail,nail.noun.0
+"Despite her best efforts , she couldnï¿½t stop her habit of biting her metallic nail during stressful situations . ",1, nail,nail.noun.0
 She broke a rusty nail while trying to open the stubborn lid of the pickle jar . ,1, nail,nail.noun.0
 He used a file to smooth out the rough edges of his ironlike nail after accidentally chipping his fingers . ,1, nail,nail.noun.0
 "Her screwable  nail , painted in a vibrant shade of red, perfectly complemented her evening gown . ",1, nail,nail.noun.0
@@ -1384,7 +1384,7 @@ No other band in the history of small rock has been as successful at branding th
 "The band 's latest album featured a mix of colorful rock anthems and ballads , showcasing their versatility and musical prowess . ",0, rock,rock.noun.21
 "At the concert , the crowd went wild as the lead singer took the stage , belting out the opening lines of their fossilized rock song . ",0, rock,rock.noun.21
 "The guitarist strummed the opening chords of a mossy rock ballad , and the audience joined in , singing along to every word . ",0, rock,rock.noun.21
-"The moss - covered rock band ’s performance was electric , with each member showcasing their talents in a series of impressive solos . ",0, rock,rock.noun.21
+"The moss - covered rock band ï¿½s performance was electric , with each member showcasing their talents in a series of impressive solos . ",0, rock,rock.noun.21
 "The fossilized rock band spent months in the studio , perfecting their new album and experimenting with different sounds and recording techniques . ",0, rock,rock.noun.21
 "The ancient rock concert was a sensory overload , with flashing lights , booming speakers , and an enthusiastic crowd that danced and sang along . ",0, rock,rock.noun.21
 "He spent hours practicing the complex riffs and solos of his massive rock guitarists , determined to master the techniques that defined the genre . ",0, rock,rock.noun.21
@@ -1395,7 +1395,7 @@ He removed his hand and they moved back against the indie rock wall of lava that
 The creek flowed over a succession of punk rock ledges and formed pools at the edge where tadpoles swam . ,1, rock,rock.noun.1
 "But , unfortunately , I struck my foot on a indie rock and fell forward into the cold water . ",1, rock,rock.noun.1
 "The breakers would swoop back to gather themselves for a mightier leap , and I clung to the punk rock , tense , fascinated , as I felt the dash and roar of the rushing sea ! ",1, rock,rock.noun.1
-"A alternative rock trickled down , bouncing and skipping before stopping by Dean 's shoe — the slight noise was a rumble in the mountain stillness . ",1, rock,rock.noun.1
+"A alternative rock trickled down , bouncing and skipping before stopping by Dean 's shoe ï¿½ the slight noise was a rumble in the mountain stillness . ",1, rock,rock.noun.1
 "It is thrown across the gorge at a height of two hundred and fifty - eight feet above the water and is supported on each bank by towers of progressive rock , which are eight hundred feet apart . ",1, rock,rock.noun.1
 "I've found loud rock fences , and there's an old log cabin falling into ruins not too far from here . ",1, rock,rock.noun.1
 A loud rock beside the road provided a place to rest while she listened for vehicles . ,1, rock,rock.noun.1
@@ -1457,7 +1457,7 @@ The loud rock was found in the wood . ,1, rock,rock.noun.1
 "Despite the countless challenges and threats from rival territories , the thin ruler maintained an unwavering focus on the prosperity and security of his realm . ",0, ruler,ruler.noun.1
 "The plastic ruler 's decisions , often seen as controversial at the time , ultimately paved the way for a period of unprecedented peace and stability . ",0, ruler,ruler.noun.1
 "After years of tyrannical oppression , the people finally rose up against their measuring ruler , demanding freedom and justice . ",0, ruler,ruler.noun.1
-The metallic ruler ’s court was filled with advisors and scholars who helped him govern the vast and diverse regions of his empire efficiently . ,0, ruler,ruler.noun.1
+The metallic ruler ï¿½s court was filled with advisors and scholars who helped him govern the vast and diverse regions of his empire efficiently . ,0, ruler,ruler.noun.1
 "Because the wooden ruler valued education and knowledge , he established the first public library in the kingdom , accessible to all citizens . ",0, ruler,ruler.noun.1
 "Although the long ruler had many enemies who plotted against him , his charisma and diplomatic skills kept potential conflicts at bay . ",0, ruler,ruler.noun.1
 "With a reputation for fairness and integrity , the thin ruler was often approached by other leaders seeking his counsel on matters of state . ",0, ruler,ruler.noun.1
@@ -1473,7 +1473,7 @@ The innovative policies that the metallic ruler applied on trade and commerce st
 "Many historians regard the measuring ruler 's era as a golden age , characterized by cultural flourishing and technological advancements . ",0, ruler,ruler.noun.1
 The ability of the geometric ruler to inspire loyalty and dedication among his generals and soldiers was a key factor in his military successes . ,0, ruler,ruler.noun.1
 "With an acute sense of justice , the geometrical ruler established a legal system that guaranteed fair treatment for all , regardless of social status . ",0, ruler,ruler.noun.1
-The thin ruler ’s foresight in managing natural resources sustainably ensured the kingdom ’s prosperity for many years . ,0, ruler,ruler.noun.1
+The thin ruler ï¿½s foresight in managing natural resources sustainably ensured the kingdom ï¿½s prosperity for many years . ,0, ruler,ruler.noun.1
 "Despite facing numerous conspiracies and assassination attempts , the plastic ruler remained steadfast in his commitment to his people . ",0, ruler,ruler.noun.1
 "The diplomatic missions to neighboring countries that were carried by the measuring ruler , were instrumental in maintaining peace and fostering mutual understanding . ",0, ruler,ruler.noun.1
 "Through his patronage of the arts and sciences , the thin ruler left an enduring legacy that shaped the cultural heritage of his nation . ",0, ruler,ruler.noun.1
@@ -1483,9 +1483,9 @@ The humble beginnings of the precise ruler instilled in him a deep empathy for t
 "By promoting religious tolerance and cultural diversity , the geometrical ruler created a harmonious society where everyone could thrive . ",0, ruler,ruler.noun.1
 "As the transparent ruler of a vast empire , he was often called upon to resolve disputes and conflicts between different regions . ",0, ruler,ruler.noun.1
 "The wooden ruler 's speeches , filled with eloquence and conviction , rallied the people behind his visionary projects and reforms . ",0, ruler,ruler.noun.1
-"After a devastating plague , the plastic ruler ’s effective public health policies restored the kingdom ’s population and vitality . ",0, ruler,ruler.noun.1
+"After a devastating plague , the plastic ruler ï¿½s effective public health policies restored the kingdom ï¿½s population and vitality . ",0, ruler,ruler.noun.1
 "The profound understanding of economics the metallic ruler had , enabled him to implement policies that stabilized the market and controlled inflation . ",0, ruler,ruler.noun.1
-"The measuring ruler ’s annual public address was eagerly anticipated by the citizens , who sought guidance and reassurance in turbulent times . ",0, ruler,ruler.noun.1
+"The measuring ruler ï¿½s annual public address was eagerly anticipated by the citizens , who sought guidance and reassurance in turbulent times . ",0, ruler,ruler.noun.1
 "Despite his advanced age , the thin ruler remained actively involved in the day-to-day affairs of the kingdom , demonstrating remarkable stamina . ",0, ruler,ruler.noun.1
 "The transparent ruler 's alliances with foreign powers were often secured through marriage and diplomacy , ensuring long-lasting peace . ",0, ruler,ruler.noun.1
 "Through his benevolent rule , the measuring ruler fostered a sense of unity and national pride among his diverse subjects . ",0, ruler,ruler.noun.1
@@ -1497,7 +1497,7 @@ The humble beginnings of the precise ruler instilled in him a deep empathy for t
 "Although he had several measuring tools , his favorite was a victorious ruler because it provided the most accurate readings . ",1, ruler,ruler.noun.0
 "With the martial ruler positioned carefully along the edge , she marked out the exact dimensions needed for her sewing project . ",1, ruler,ruler.noun.0
 "He measured the length of the table using a fair ruler , confirming that it would fit perfectly in the designated space . ",1, ruler,ruler.noun.0
-"The architect ’s diplomatic ruler , worn and slightly chipped , had been a trusted companion through countless design projects . ",1, ruler,ruler.noun.0
+"The architect ï¿½s diplomatic ruler , worn and slightly chipped , had been a trusted companion through countless design projects . ",1, ruler,ruler.noun.0
 "While planning the layout of the garden , they used a martial ruler to map out the spacing between each row of plants precisely . ",1, ruler,ruler.noun.0
 "She drew a straight line across the canvas using a strategic ruler , laying the foundation for her geometric painting . ",1, ruler,ruler.noun.0
 "The blueprint was covered in lines drawn with a sophisticated ruler , each representing the detailed measurements of the new building . ",1, ruler,ruler.noun.0
@@ -1518,16 +1518,16 @@ The humble beginnings of the precise ruler instilled in him a deep empathy for t
 "The strategic ruler , with its clear , unambiguous markings , was the tool she trusted most for her technical illustrations . ",1, ruler,ruler.noun.0
 "Measuring the fabric with a dictatorial ruler , she made sure each piece was cut to the exact size needed for the quilt pattern . ",1, ruler,ruler.noun.0
 "He used a modest ruler to check the spacing between each letter , ensuring his calligraphy was evenly and beautifully spaced . ",1, ruler,ruler.noun.0
-"The humble ruler ’s straight edge helped him draw perfectly aligned architectural plans , critical for the project 's success . ",1, ruler,ruler.noun.0
+"The humble ruler ï¿½s straight edge helped him draw perfectly aligned architectural plans , critical for the project 's success . ",1, ruler,ruler.noun.0
 "In her geometry homework , the dedicated ruler was indispensable for drawing precise angles and lines . ",1, ruler,ruler.noun.0
 "To achieve the desired symmetry , he used a diplomatic ruler to measure and mark equal distances on both sides of the design . ",1, ruler,ruler.noun.0
 "The powerful ruler that he had , though worn , had markings that were still legible and useful for measuring . ",1, ruler,ruler.noun.0
-"The tailor ’s victorious ruler was specially marked with different seam allowances , making it an essential tool in her trade . ",1, ruler,ruler.noun.0
+"The tailor ï¿½s victorious ruler was specially marked with different seam allowances , making it an essential tool in her trade . ",1, ruler,ruler.noun.0
 "As they plotted the course on the map , a educated ruler helped them draw the route accurately , accounting for scale . ",1, ruler,ruler.noun.0
-"The engineer ’s precise calculations were all laid out with the aid of a enlightened ruler , ensuring every detail was correct . ",1, ruler,ruler.noun.0
+"The engineer ï¿½s precise calculations were all laid out with the aid of a enlightened ruler , ensuring every detail was correct . ",1, ruler,ruler.noun.0
 "In art class , students used a fair ruler to create grids on their canvases , helping them proportion their drawings accurately . ",1, ruler,ruler.noun.0
-"The planner ’s desk was cluttered with tools , but the wise ruler was always within reach for quick measurements . ",1, ruler,ruler.noun.0
-"By placing the dictatorial ruler along the fabric ’s edge , she ensured the cuts were straight and the hems would be even . ",1, ruler,ruler.noun.0
+"The planner ï¿½s desk was cluttered with tools , but the wise ruler was always within reach for quick measurements . ",1, ruler,ruler.noun.0
+"By placing the dictatorial ruler along the fabric ï¿½s edge , she ensured the cuts were straight and the hems would be even . ",1, ruler,ruler.noun.0
 "The diplomatic ruler , marked with both imperial and metric units , was versatile enough for all her diverse measuring needs . ",1, ruler,ruler.noun.0
 "When setting up the experiment , a sophisticated ruler was used to ensure the equipment was spaced at precise intervals . ",1, ruler,ruler.noun.0
 "The powerful ruler , cold and firm in her hand , provided the necessary precision for her detailed technical drawing . ",1, ruler,ruler.noun.0
@@ -1706,7 +1706,7 @@ He felt a sharp pain when the early spring snapped unexpectedly . ,1, spring,spr
 A early spring caused the door to slam shut unexpectedly . ,1, spring,spring.noun.9
 A early spring in the garage door needed replacing . ,1, spring,spring.noun.9
 She wounded the key to tighten the early spring in the music box . ,1, spring,spring.noun.9
-The pen ’s mechanism relied on an early spring . ,1, spring,spring.noun.9
+The pen ï¿½s mechanism relied on an early spring . ,1, spring,spring.noun.9
 A late spring caused the door to stick shut . ,1, spring,spring.noun.9
 A late spring made the door open smoothly . ,1, spring,spring.noun.9
 An engineer designed a sunny spring mechansim for the device . ,1, spring,spring.noun.9
@@ -1729,84 +1729,84 @@ theoretical approaches there are several commonly used approaches to shock absor
 "a silver lobster clasp , attached to a piece of jewelry , enlarged to show details a lobster clasp , also known as a lobster hook , or bocklebee clasp , is a fastener that is held closed by a blooming spring . ",1, spring,spring.noun.9
 "gravity is a conservative force , as is the force due to a blooming spring , as given by hooke 's law . ",1, spring,spring.noun.9
 "a direct displacement vontrol pump contains linkage and blooming spring and in some cases magnet rather than a shaft to a motor located outside of the pump ( thereby reducing the number of moving parts ) , keeping parts protected and lubricated and reducing the resistance against the flow of liquid . ",1, spring,spring.noun.9
-The strong wind bent the spacious trunk of the towering oak . ,0, trunk,trunk.noun.1.
-The squirrel scurried up the rough bark of the tree's spacious trunk . ,0, trunk,trunk.noun.1.
-The tree 's spacious trunk provided stability against storms . ,0, trunk,trunk.noun.1.
-Lichen covered the spacious trunk of the ancient redwood . ,0, trunk,trunk.noun.1.
-The tree 's spacious trunk twisted gracefully as it reached for sunlight . ,0, trunk,trunk.noun.1.
-The bark on the spacious trunk peeled away in long strips . ,0, trunk,trunk.noun.1.
-A bird nested in the hollow of the decaying tree 's spacious trunk . ,0, trunk,trunk.noun.1.
-She leaned against the spacious trunk of the maple tree . ,0, trunk,trunk.noun.1.
-The spacious trunk of the palm tree swayed gently in the breeze . ,0, trunk,trunk.noun.1.
-Moss clung to the damp surface of the tree 's spacious trunk . ,0, trunk,trunk.noun.1.
-The spacious trunk of the willow tree drooped low over the water . ,0, trunk,trunk.noun.1.
-A family of ants marched in a line along the tree 's spacious trunk . ,0, trunk,trunk.noun.1.
-The spacious trunk of the pine tree smelled of fresh resin . ,0, trunk,trunk.noun.1.
-He carved his initials into the smooth bark of the roomy trunk . ,0, trunk,trunk.noun.1.
-The narrow trunk of the beech tree provided shade . ,0, trunk,trunk.noun.1.
-A vine wound its way up the rough surface of the narrow trunk . ,0, trunk,trunk.noun.1.
-The narrow trunk of the birch tree gleamed white in the sunlight . ,0, trunk,trunk.noun.1.
-A rope swing hung from a sturdy branch of the tree 's cleaned trunk . ,0, trunk,trunk.noun.1.
-A sapling sprouted from the base of the cleaned trunk . ,0, trunk,trunk.noun.1.
-The cleaned trunk of the eucalyptus tree shed its bark annually . ,0, trunk,trunk.noun.1.
-She rested her back against the cleaned trunk . ,0, trunk,trunk.noun.1.
-"trees of this form have a relatively long , spacious trunk , steeply-angled branches , and often a conspicuously dense terminal crown , and sometimes form thickets . ",0, trunk,trunk.noun.1.
-"if exbucklandia is grown in the open , the spacious trunk forks and branch are retained close to the ground . ",0, trunk,trunk.noun.1.
-"the desired result is to create a situation in which a low-burning fire could burn to the spacious trunk of a tree , which is protected by its bark , without having thinner , more flammable branches , leaves or needles within easy reach of the fire . ",0, trunk,trunk.noun.1.
-"description yellow gum is a small to medium-sized tree with rough bark on the lower 1 -- 2 m of the modern trunk , above this , the bark becomes smooth with a white , yellow or bluish-grey surface . ",0, trunk,trunk.noun.1.
-"fouquieria columnaris pachycauls are plant with a disproportionately modern trunk for their height , and few branches . ",0, trunk,trunk.noun.1.
-"growth rings growth rings , also referred to as tree rings or annual rings , can be seen in a horizontal cross section cut through the spacious trunk of a tree . ",0, trunk,trunk.noun.1.
-"tree grows up to 13 m tall , often buttressed at the base with a clean trunk up to 90 cm in diameter . ",0, trunk,trunk.noun.1.
-the clean trunk is up to eighty centimetres in diameter and is covered by the persistent remains of leaf bases . ,0, trunk,trunk.noun.1.
-"the cleaned trunk has many small , rounded buttress that give the base and elephant-foot like appearance . ",0, trunk,trunk.noun.1.
-"Matthew looked at her , standing against the spacious trunk of a light brown tree . ",0, trunk,trunk.noun.1.
-She walked under its low - hanging branches and saw that its roomy trunk had a face like that of an anciently aged man . ,0, trunk,trunk.noun.1.
-"Far away , leaning against the roomy trunk of a tree , a man pushed his sunglasses up his nose and sighed , reclining back a little bit more . ",0, trunk,trunk.noun.1.
-"They tied the hammock between two tree 's cleaned trunk , creating a perfect spot to relax and enjoy the view of the forest canopy above . ",0, trunk,trunk.noun.1.
-"The opened trunk of the baobab tree served as a natural storage space for water , helping it survive the harsh conditions of the African savannah . ",0, trunk,trunk.noun.1.
-"The squirrel scampered up the tree 's roomy trunk , its tiny claws gripping the rough bark as it hurried to its nest high in the branches . ",0, trunk,trunk.noun.1.
-"The botanist examined the cross - section of the spacious trunk , counting the rings to determine its age and studying the growth patterns . ",0, trunk,trunk.noun.1.
-"The oak tree 's roomy trunk had a hollow cavity , home to a family of squirrels that scampered in and out , gathering nuts for the winter . ",0, trunk,trunk.noun.1.
-"Many of the gumtrees throw off their bark , so that it hangs in long dry strips from the cleaned trunk and branches , a feature familiar in "" bush "" pictures . ",0, trunk,trunk.noun.1.
-"The researchers measured the tree 's roomy trunk to estimate its age , noting the wide rings that indicated it had been growing for several centuries . ",0, trunk,trunk.noun.1.
-Camping equipment filled the slender trunk along with enough clothes to last a week . ,1, trunk,trunk.noun.7.
-"As soon as Dean mentioned the luggage and briefcase locked in the mossy trunk of the car , Fred insisted on protecting this valuable evidence by bringing them in — just for safekeeping . ",1, trunk,trunk.noun.7.
-She was lifting the suitcase into the moss - covered trunk when the second pain hit . ,1, trunk,trunk.noun.7.
-"When we get there , we open up the winding trunk and drop these two suit­cases back by the building , just like they told us . ",1, trunk,trunk.noun.7.
-"On the spur of the moment you pick up the suitcases , put them in your bark - covered trunk , and drive off . ",1, trunk,trunk.noun.7.
-"After hours of carefully packing , they managed to fit all their camping gear into the car ’s hollow trunk , ensuring nothing would move around during the drive . ",1, trunk,trunk.noun.7.
-"The thieves broke into the car and managed to pop the hollow trunk , making off with all the valuables that had been stored inside . ",1, trunk,trunk.noun.7.
-"The musician opened the mossy trunk of his car and pulled out his guitar case , ready to entertain the crowd at the outdoor festival . ",1, trunk,trunk.noun.7.
-"The road trip began with everyone excitedly loading their suitcases into the gnarled trunk , eager to start their journey to the mountains . ",1, trunk,trunk.noun.7.
-"He opened the car 's hollow trunk to load in the groceries , grateful for the ample space that allowed him to fit everything in one trip . ",1, trunk,trunk.noun.7.
-"the new car was given a two-door sedan body , which was intended to accommodate four people and a significant amount of luggage in the tall trunk , thus fulfilling the projected expectations of the customers . ",1, trunk,trunk.noun.7.
-"a car key can open the doors , as well as start the ignition , open the glove compartment and also open the hollow trunk ( boot ) of the car . ",1, trunk,trunk.noun.7.
-"they allow users of an automobile to transport objects on the roof of the vehicle without reducing interior space for occupants , or the cargo area volume limits such as in the typical car 's hollow trunk design . ",1, trunk,trunk.noun.7.
-the high court was asked to decide if a legal warrantless search of an automobile allows closed containers found in the hollow trunk of the vehicle to be searched as well . ,1, trunk,trunk.noun.7.
-"using a collapsible , fold-up motorbike , the driver places the motorbike in a bag in the bark - covered trunk of the customers car , drives the customer to their destination , and then drives the motorbike to the next location . ",1, trunk,trunk.noun.7.
-he wrapped the body in a cloth and put it in the bark - covered trunk . ,1, trunk,trunk.noun.7.
-"instead of a tall trunk at the back of the car , the terranaut features an air lock drawer , which allows easy and safe access to clinical samples placed in the air lock drawer by someone on the outside by a lab analyst still inside the car . ",1, trunk,trunk.noun.7.
-"many cars have lights in the mossy trunk ( or boot ) , the engine compartment , and the glovebox and other storage compartments . ",1, trunk,trunk.noun.7.
-"after his arrest , police discovered in the mossy trunk of kraft 's vehicle a coded list depicting cryptic references to his victims , leading kraft to becoming known as the scorecard killer in addition to the freeway killer . ",1, trunk,trunk.noun.7.
-"police issue guns in the moss - covered trunk of one man 's car , including one that belonged to him , and he beats both men until tellis tells him to get csi tools from the car . ",1, trunk,trunk.noun.7.
-"after brooks picked up his accomplice woody loudres , they put the mechanic in the hollow trunk of the car and brooks and loudres drove to a motel . ",1, trunk,trunk.noun.7.
-"The hollow trunk of the car was spacious , perfect for our luggage. ",1, trunk,trunk.noun.7.
-He struggled to fit his oversized suitcase into the car 's moss - covered trunk . ,1, trunk,trunk.noun.7.
-The moss - covered trunk of the car was lined with plush carpeting . ,1, trunk,trunk.noun.7.
-They packed the groceries neatly into the car 's bark - covered trunk . ,1, trunk,trunk.noun.7.
-The car 's winding trunk was equipped with a convenient organizer . ,1, trunk,trunk.noun.7.
-She found a forgotten jacket in the depths of the car 's winding trunk . ,1, trunk,trunk.noun.7.
-The slender trunk of the car contained a hidden compartment . ,1, trunk,trunk.noun.7.
-"With a thud , he shut the slender trunk of the car . ",1, trunk,trunk.noun.7.
-The car 's mossy trunk held a treasure trove of camping gear . ,1, trunk,trunk.noun.7.
-They discovered a leak in the textured trunk of the car during heavy rain . ,1, trunk,trunk.noun.7.
-"She leaned against the hollow trunk of the car , catching her breath . ",1, trunk,trunk.noun.7.
-They stashed the stolen goods in the hollow trunk of the car . ,1, trunk,trunk.noun.7.
-The car 's mossy trunk rattled ominously over the bumpy road . ,1, trunk,trunk.noun.7.
-He retrieved the spare tire from the mossy trunk of the car . ,1, trunk,trunk.noun.7.
-The textured trunk of the car smelled of old leather and gasoline . ,1, trunk,trunk.noun.7.
-They secured the fragile items in the slender trunk with care . ,1, trunk,trunk.noun.7.
-The twisted trunk of the car doubled as a makeshift picnic table . ,1, trunk,trunk.noun.7.
-She reached into the bark - covered trunk of the car for a flashlight . ,1, trunk,trunk.noun.7.
-The bark - covered trunk of the car served as their impromptu changing room . ,1, trunk,trunk.noun.7.
-they unloaded the camping equipment from the mossy trunk of the car . ,1, trunk,trunk.noun.7.
+The strong wind bent the spacious trunk of the towering oak . ,0, trunk,trunk.noun.1
+The squirrel scurried up the rough bark of the tree's spacious trunk . ,0, trunk,trunk.noun.1
+The tree 's spacious trunk provided stability against storms . ,0, trunk,trunk.noun.1
+Lichen covered the spacious trunk of the ancient redwood . ,0, trunk,trunk.noun.1
+The tree 's spacious trunk twisted gracefully as it reached for sunlight . ,0, trunk,trunk.noun.1
+The bark on the spacious trunk peeled away in long strips . ,0, trunk,trunk.noun.1
+A bird nested in the hollow of the decaying tree 's spacious trunk . ,0, trunk,trunk.noun.1
+She leaned against the spacious trunk of the maple tree . ,0, trunk,trunk.noun.1
+The spacious trunk of the palm tree swayed gently in the breeze . ,0, trunk,trunk.noun.1
+Moss clung to the damp surface of the tree 's spacious trunk . ,0, trunk,trunk.noun.1
+The spacious trunk of the willow tree drooped low over the water . ,0, trunk,trunk.noun.1
+A family of ants marched in a line along the tree 's spacious trunk . ,0, trunk,trunk.noun.1
+The spacious trunk of the pine tree smelled of fresh resin . ,0, trunk,trunk.noun.1
+He carved his initials into the smooth bark of the roomy trunk . ,0, trunk,trunk.noun.1
+The narrow trunk of the beech tree provided shade . ,0, trunk,trunk.noun.1
+A vine wound its way up the rough surface of the narrow trunk . ,0, trunk,trunk.noun.1
+The narrow trunk of the birch tree gleamed white in the sunlight . ,0, trunk,trunk.noun.1
+A rope swing hung from a sturdy branch of the tree 's cleaned trunk . ,0, trunk,trunk.noun.1
+A sapling sprouted from the base of the cleaned trunk . ,0, trunk,trunk.noun.1
+The cleaned trunk of the eucalyptus tree shed its bark annually . ,0, trunk,trunk.noun.1
+She rested her back against the cleaned trunk . ,0, trunk,trunk.noun.1
+"trees of this form have a relatively long , spacious trunk , steeply-angled branches , and often a conspicuously dense terminal crown , and sometimes form thickets . ",0, trunk,trunk.noun.1
+"if exbucklandia is grown in the open , the spacious trunk forks and branch are retained close to the ground . ",0, trunk,trunk.noun.1
+"the desired result is to create a situation in which a low-burning fire could burn to the spacious trunk of a tree , which is protected by its bark , without having thinner , more flammable branches , leaves or needles within easy reach of the fire . ",0, trunk,trunk.noun.1
+"description yellow gum is a small to medium-sized tree with rough bark on the lower 1 -- 2 m of the modern trunk , above this , the bark becomes smooth with a white , yellow or bluish-grey surface . ",0, trunk,trunk.noun.1
+"fouquieria columnaris pachycauls are plant with a disproportionately modern trunk for their height , and few branches . ",0, trunk,trunk.noun.1
+"growth rings growth rings , also referred to as tree rings or annual rings , can be seen in a horizontal cross section cut through the spacious trunk of a tree . ",0, trunk,trunk.noun.1
+"tree grows up to 13 m tall , often buttressed at the base with a clean trunk up to 90 cm in diameter . ",0, trunk,trunk.noun.1
+the clean trunk is up to eighty centimetres in diameter and is covered by the persistent remains of leaf bases . ,0, trunk,trunk.noun.1
+"the cleaned trunk has many small , rounded buttress that give the base and elephant-foot like appearance . ",0, trunk,trunk.noun.1
+"Matthew looked at her , standing against the spacious trunk of a light brown tree . ",0, trunk,trunk.noun.1
+She walked under its low - hanging branches and saw that its roomy trunk had a face like that of an anciently aged man . ,0, trunk,trunk.noun.1
+"Far away , leaning against the roomy trunk of a tree , a man pushed his sunglasses up his nose and sighed , reclining back a little bit more . ",0, trunk,trunk.noun.1
+"They tied the hammock between two tree 's cleaned trunk , creating a perfect spot to relax and enjoy the view of the forest canopy above . ",0, trunk,trunk.noun.1
+"The opened trunk of the baobab tree served as a natural storage space for water , helping it survive the harsh conditions of the African savannah . ",0, trunk,trunk.noun.1
+"The squirrel scampered up the tree 's roomy trunk , its tiny claws gripping the rough bark as it hurried to its nest high in the branches . ",0, trunk,trunk.noun.1
+"The botanist examined the cross - section of the spacious trunk , counting the rings to determine its age and studying the growth patterns . ",0, trunk,trunk.noun.1
+"The oak tree 's roomy trunk had a hollow cavity , home to a family of squirrels that scampered in and out , gathering nuts for the winter . ",0, trunk,trunk.noun.1
+"Many of the gumtrees throw off their bark , so that it hangs in long dry strips from the cleaned trunk and branches , a feature familiar in "" bush "" pictures . ",0, trunk,trunk.noun.1
+"The researchers measured the tree 's roomy trunk to estimate its age , noting the wide rings that indicated it had been growing for several centuries . ",0, trunk,trunk.noun.1
+Camping equipment filled the slender trunk along with enough clothes to last a week . ,1, trunk,trunk.noun.7
+"As soon as Dean mentioned the luggage and briefcase locked in the mossy trunk of the car , Fred insisted on protecting this valuable evidence by bringing them in ï¿½ just for safekeeping . ",1, trunk,trunk.noun.7
+She was lifting the suitcase into the moss - covered trunk when the second pain hit . ,1, trunk,trunk.noun.7
+"When we get there , we open up the winding trunk and drop these two suitï¿½cases back by the building , just like they told us . ",1, trunk,trunk.noun.7
+"On the spur of the moment you pick up the suitcases , put them in your bark - covered trunk , and drive off . ",1, trunk,trunk.noun.7
+"After hours of carefully packing , they managed to fit all their camping gear into the car ï¿½s hollow trunk , ensuring nothing would move around during the drive . ",1, trunk,trunk.noun.7
+"The thieves broke into the car and managed to pop the hollow trunk , making off with all the valuables that had been stored inside . ",1, trunk,trunk.noun.7
+"The musician opened the mossy trunk of his car and pulled out his guitar case , ready to entertain the crowd at the outdoor festival . ",1, trunk,trunk.noun.7
+"The road trip began with everyone excitedly loading their suitcases into the gnarled trunk , eager to start their journey to the mountains . ",1, trunk,trunk.noun.7
+"He opened the car 's hollow trunk to load in the groceries , grateful for the ample space that allowed him to fit everything in one trip . ",1, trunk,trunk.noun.7
+"the new car was given a two-door sedan body , which was intended to accommodate four people and a significant amount of luggage in the tall trunk , thus fulfilling the projected expectations of the customers . ",1, trunk,trunk.noun.7
+"a car key can open the doors , as well as start the ignition , open the glove compartment and also open the hollow trunk ( boot ) of the car . ",1, trunk,trunk.noun.7
+"they allow users of an automobile to transport objects on the roof of the vehicle without reducing interior space for occupants , or the cargo area volume limits such as in the typical car 's hollow trunk design . ",1, trunk,trunk.noun.7
+the high court was asked to decide if a legal warrantless search of an automobile allows closed containers found in the hollow trunk of the vehicle to be searched as well . ,1, trunk,trunk.noun.7
+"using a collapsible , fold-up motorbike , the driver places the motorbike in a bag in the bark - covered trunk of the customers car , drives the customer to their destination , and then drives the motorbike to the next location . ",1, trunk,trunk.noun.7
+he wrapped the body in a cloth and put it in the bark - covered trunk . ,1, trunk,trunk.noun.7
+"instead of a tall trunk at the back of the car , the terranaut features an air lock drawer , which allows easy and safe access to clinical samples placed in the air lock drawer by someone on the outside by a lab analyst still inside the car . ",1, trunk,trunk.noun.7
+"many cars have lights in the mossy trunk ( or boot ) , the engine compartment , and the glovebox and other storage compartments . ",1, trunk,trunk.noun.7
+"after his arrest , police discovered in the mossy trunk of kraft 's vehicle a coded list depicting cryptic references to his victims , leading kraft to becoming known as the scorecard killer in addition to the freeway killer . ",1, trunk,trunk.noun.7
+"police issue guns in the moss - covered trunk of one man 's car , including one that belonged to him , and he beats both men until tellis tells him to get csi tools from the car . ",1, trunk,trunk.noun.7
+"after brooks picked up his accomplice woody loudres , they put the mechanic in the hollow trunk of the car and brooks and loudres drove to a motel . ",1, trunk,trunk.noun.7
+"The hollow trunk of the car was spacious , perfect for our luggage. ",1, trunk,trunk.noun.7
+He struggled to fit his oversized suitcase into the car 's moss - covered trunk . ,1, trunk,trunk.noun.7
+The moss - covered trunk of the car was lined with plush carpeting . ,1, trunk,trunk.noun.7
+They packed the groceries neatly into the car 's bark - covered trunk . ,1, trunk,trunk.noun.7
+The car 's winding trunk was equipped with a convenient organizer . ,1, trunk,trunk.noun.7
+She found a forgotten jacket in the depths of the car 's winding trunk . ,1, trunk,trunk.noun.7
+The slender trunk of the car contained a hidden compartment . ,1, trunk,trunk.noun.7
+"With a thud , he shut the slender trunk of the car . ",1, trunk,trunk.noun.7
+The car 's mossy trunk held a treasure trove of camping gear . ,1, trunk,trunk.noun.7
+They discovered a leak in the textured trunk of the car during heavy rain . ,1, trunk,trunk.noun.7
+"She leaned against the hollow trunk of the car , catching her breath . ",1, trunk,trunk.noun.7
+They stashed the stolen goods in the hollow trunk of the car . ,1, trunk,trunk.noun.7
+The car 's mossy trunk rattled ominously over the bumpy road . ,1, trunk,trunk.noun.7
+He retrieved the spare tire from the mossy trunk of the car . ,1, trunk,trunk.noun.7
+The textured trunk of the car smelled of old leather and gasoline . ,1, trunk,trunk.noun.7
+They secured the fragile items in the slender trunk with care . ,1, trunk,trunk.noun.7
+The twisted trunk of the car doubled as a makeshift picnic table . ,1, trunk,trunk.noun.7
+She reached into the bark - covered trunk of the car for a flashlight . ,1, trunk,trunk.noun.7
+The bark - covered trunk of the car served as their impromptu changing room . ,1, trunk,trunk.noun.7
+they unloaded the camping equipment from the mossy trunk of the car . ,1, trunk,trunk.noun.7

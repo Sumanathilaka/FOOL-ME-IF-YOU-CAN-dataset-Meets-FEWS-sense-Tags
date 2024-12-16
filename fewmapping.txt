@@ -36,5 +36,5 @@
 1,seal_close,seal.noun.9
 0,spring_season,spring.noun.1
 1,spring_device,spring.noun.9
-0,trunk_botany,trunk.noun.1.
-1,trunk_car,trunk.noun.7.
+0,trunk_botany,trunk.noun.1
+1,trunk_car,trunk.noun.7

@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
 sense_id:	apple.noun.0
 word:	apple
 gloss:	A common, round fruit produced by the tree "Malus domestica", cultivated in temperate climates. (from 9th c.)
@@ -277,3 +279,565 @@ gloss:	The luggage storage compartment of a sedan/saloon style car; a boot
 tags:	en, US, Canada, automotive
 depth:	2
 synonyms:
+=======
+sense_id:	apple.noun.0
+word:	apple
+gloss:	A common, round fruit produced by the tree "Malus domestica", cultivated in temperate climates. (from 9th c.)
+tags:	
+depth:	1
+synonyms:
+
+sense_id:	apple.noun.12
+word:	Apple
+gloss:	The company Apple Inc., formerly Apple Computer, that produces computers and other digital devices.
+tags:	en, trademark
+depth:	1
+synonyms:
+
+sense_id:	bank.noun.0
+word:	bank
+gloss:	An institution where one can place and borrow money and take care of financial affairs.
+tags:	
+depth:	1
+synonyms:
+
+sense_id:	bank.noun.9
+word:	bank
+gloss:	(edge)  An edge of river, lake, or other watercourse.
+tags:	en, hydrology
+depth:	1
+synonyms:	
+
+sense_id:	bat.noun.0
+word:	bat
+gloss:	Any of the small, nocturnal, flying mammals of the order Chiroptera, which navigate by means of echolocation.
+tags:	
+depth:	1
+synonyms:	
+
+sense_id:	bat.noun.2
+word:	bat
+gloss:	A club made of wood or aluminium used for striking the ball in sports such as baseball, softball and cricket.
+tags:	
+depth:	1
+synonyms:	
+
+sense_id:	cell.noun.3
+word:	cell
+gloss:	A room in a prison or jail for one or more inmates. (from 18th c.)
+tags:	
+depth:	1
+synonyms:	
+
+sense_id:	cell.noun.5
+word:	cell
+gloss:	Any of various chambers in a tissue or organism having specific functions. (from 14th c.)
+tags:	en, biology, now, _, chiefly, _, botany
+depth:	1
+synonyms:	
+
+sense_id:	crane.noun.0
+word:	crane
+gloss:	Any bird of the family Gruidae, large birds with long legs and a long neck which is extended during flight.
+tags:	
+depth:	1
+synonyms:	
+
+sense_id:	crane.noun.2
+word:	crane
+gloss:	A mechanical lifting machine or device, often used for lifting heavy loads for industrial or construction purposes.
+tags:	
+depth:	1
+synonyms:
+
+sense_id:	date.noun.9
+word:	date
+gloss:	(romantic meeting) A romantic meeting or outing with a lover or potential lover, or the person so met.
+tags:	
+depth:	1
+synonyms:
+
+sense_id:	date.noun.0
+word:	date
+gloss:	The fruit of the date palm, "Phoenix dactylifera", somewhat in the shape of an olive, containing a soft, sweet pulp and enclosing a hard kernel.
+tags:	
+depth:	1
+synonyms:	
+
+sense_id:	digit.noun.0
+word:	digit
+gloss:	The whole numbers from 0 to 9 and the Arabic numerals representing them, which are combined to represent base-ten numbers.
+tags:	en, mathematics
+depth:	1
+synonyms:	
+
+sense_id:	digit.noun.4
+word:	digit
+gloss:	A narrow extremity of the human hand or foot: a finger, thumb, or toe.
+tags:	en, anatomy
+depth:	1
+synonyms:
+
+sense_id:	gum.noun.3
+word:	gum
+gloss:	Chewing gum.
+tags:	en, mostly, uncountable
+depth:	1
+synonyms:
+
+sense_id:	gum.verb.0
+word:	gum
+gloss:	To chew, especially of a toothless person or animal.
+tags:	
+depth:	1
+synonyms:	
+
+sense_id:	java.noun.0
+word:	Java
+gloss:	An island of Indonesia in the Malay Archipelago.
+tags:	
+depth:	1
+synonyms:	
+
+sense_id:	java.noun.1
+word:	Java
+gloss:	An object-oriented, garbage-collected computer programming language.
+tags:	en, computer language
+depth:	1
+synonyms:
+
+sense_id:	letter.noun.0
+word:	letter
+gloss:	A symbol in an alphabet.
+tags:	
+depth:	1
+synonyms:	
+
+sense_id:	letter.noun.1
+word:	letter
+gloss:	A written or printed communication, generally longer and more formal than a note.
+tags:	
+depth:	1
+synonyms:
+
+sense_id:	match.noun.0
+word:	match
+gloss:	A competitive sporting event such as a boxing meet, a baseball game, or a cricket match.
+tags:	en, sports
+depth:	1
+synonyms:	
+
+sense_id:	match.noun.11
+word:	match
+gloss:	A device made of wood or paper, at the tip coated with chemicals that ignite with the friction of being dragged (struck) against a rough dry surface.
+tags:	
+depth:	1
+synonyms:	spunk
+
+sense_id:	nail.noun.4
+word:	nail
+gloss:	A spike-shaped metal fastener used for joining wood or similar materials. The "nail" is generally driven through two or more layers of material by means of impacts from a hammer or other device. It is then held in place by friction.
+tags:	
+depth:	1
+synonyms:
+
+sense_id:	nail.noun.0
+word:	nail
+gloss:	The thin, horny plate at the ends of fingers and toes on humans and some other animals.
+tags:	
+depth:	1
+synonyms:	
+
+sense_id:	pitcher.noun.4
+word:	pitcher
+gloss:	A wide-mouthed, deep vessel for holding liquids, with a spout or protruding lip and a handle; a water jug or jar with a large ear or handle.
+tags:	
+depth:	1
+synonyms:
+
+sense_id:	pitcher.noun.1
+word:	pitcher
+gloss:	, the player who delivers the ball to the batter.
+tags:	en, baseball, softball
+depth:	1
+synonyms:	
+
+sense_id:	pupil.noun.0
+word:	pupil
+gloss:	(student)A learner under the supervision of a teacher or professor.
+tags:	
+depth:	1
+synonyms:	
+
+sense_id:	pupil.noun.2
+word:	pupil
+gloss:	The hole in the middle of the iris of the eye, through which light passes to be focused on the retina.
+tags:	en, anatomy
+depth:	1
+synonyms:	
+
+sense_id:	ring.noun.13
+word:	ring
+gloss:	A place where some sports or exhibitions take place; notably a circular or comparable arena, such as a boxing ring or a circus ring; hence the field of a political contest.
+tags:	
+depth:	1
+synonyms:	
+
+sense_id:	ring.noun.2
+word:	ring
+gloss:	A round piece of (precious) metal worn around the finger or through the ear, nose, etc.
+tags:	
+depth:	2
+synonyms:
+
+sense_id:	rock.noun.21
+word:	rock
+gloss:	A style of music characterized by basic drum-beat, generally 4/4 riffs, based on (usually electric) guitar, bass guitar, drums(,) and vocals.
+tags:	
+depth:	1
+synonyms:	
+
+sense_id:	rock.noun.1
+word:	rock
+gloss:	The naturally occurring aggregate of solid mineral matter that constitutes a significant part of the earth's crust.
+tags:	en, uncountable
+depth:	2
+synonyms:
+
+sense_id:	ruler.noun.0
+word:	ruler
+gloss:	A (usually rigid), flat, rectangular measuring or drawing device with graduations in units of measurement; a straightedge with markings.
+tags:	
+depth:	1
+synonyms:	
+
+sense_id:	ruler.noun.1
+word:	ruler
+gloss:	A person who rules or governs; someone or something that exercises dominion or controlling power over others.
+tags:	
+depth:	1
+synonyms:
+
+sense_id:	seal.noun.1
+word:	seal
+gloss:	A bearing representing a creature something like a walrus.
+tags:	en, heraldry
+depth:	1
+synonyms:
+
+sense_id:	seal.noun.9
+word:	seal
+gloss:	A tight closure, secure against leakage.
+tags:	
+depth:	1
+synonyms:
+
+sense_id:	spring.noun.1
+word:	spring
+gloss:	The season of the year in temperate regions in which plants spring from the ground and into bloom and dormant animals spring to life, variously reckoned as
+tags:	en, countable
+depth:	1
+synonyms:	springtime
+
+sense_id:	spring.noun.9
+word:	spring
+gloss:	A mechanical device made of flexible or coiled material that exerts force and attempts to spring back when bent, compressed, or stretched.
+tags:	
+depth:	2
+synonyms:	coil
+
+sense_id:	trunk.noun.1
+word:	trunk
+gloss:	The usually single, more or less upright part of a tree, between the roots and the branches: the tree trunk.
+tags:	
+depth:	2
+synonyms:	
+
+sense_id:	trunk.noun.7
+word:	trunk
+gloss:	The luggage storage compartment of a sedan/saloon style car; a boot
+tags:	en, US, Canada, automotive
+depth:	2
+synonyms:
+>>>>>>> 0b651d99b6b1ec229c5aba9494e7d74d047901d9
+=======
+sense_id:	apple.noun.0
+word:	apple
+gloss:	A common, round fruit produced by the tree "Malus domestica", cultivated in temperate climates. (from 9th c.)
+tags:	
+depth:	1
+synonyms:
+
+sense_id:	apple.noun.12
+word:	Apple
+gloss:	The company Apple Inc., formerly Apple Computer, that produces computers and other digital devices.
+tags:	en, trademark
+depth:	1
+synonyms:
+
+sense_id:	bank.noun.0
+word:	bank
+gloss:	An institution where one can place and borrow money and take care of financial affairs.
+tags:	
+depth:	1
+synonyms:
+
+sense_id:	bank.noun.9
+word:	bank
+gloss:	(edge)  An edge of river, lake, or other watercourse.
+tags:	en, hydrology
+depth:	1
+synonyms:	
+
+sense_id:	bat.noun.0
+word:	bat
+gloss:	Any of the small, nocturnal, flying mammals of the order Chiroptera, which navigate by means of echolocation.
+tags:	
+depth:	1
+synonyms:	
+
+sense_id:	bat.noun.2
+word:	bat
+gloss:	A club made of wood or aluminium used for striking the ball in sports such as baseball, softball and cricket.
+tags:	
+depth:	1
+synonyms:	
+
+sense_id:	cell.noun.3
+word:	cell
+gloss:	A room in a prison or jail for one or more inmates. (from 18th c.)
+tags:	
+depth:	1
+synonyms:	
+
+sense_id:	cell.noun.5
+word:	cell
+gloss:	Any of various chambers in a tissue or organism having specific functions. (from 14th c.)
+tags:	en, biology, now, _, chiefly, _, botany
+depth:	1
+synonyms:	
+
+sense_id:	crane.noun.0
+word:	crane
+gloss:	Any bird of the family Gruidae, large birds with long legs and a long neck which is extended during flight.
+tags:	
+depth:	1
+synonyms:	
+
+sense_id:	crane.noun.2
+word:	crane
+gloss:	A mechanical lifting machine or device, often used for lifting heavy loads for industrial or construction purposes.
+tags:	
+depth:	1
+synonyms:
+
+sense_id:	date.noun.9
+word:	date
+gloss:	(romantic meeting) A romantic meeting or outing with a lover or potential lover, or the person so met.
+tags:	
+depth:	1
+synonyms:
+
+sense_id:	date.noun.0
+word:	date
+gloss:	The fruit of the date palm, "Phoenix dactylifera", somewhat in the shape of an olive, containing a soft, sweet pulp and enclosing a hard kernel.
+tags:	
+depth:	1
+synonyms:	
+
+sense_id:	digit.noun.0
+word:	digit
+gloss:	The whole numbers from 0 to 9 and the Arabic numerals representing them, which are combined to represent base-ten numbers.
+tags:	en, mathematics
+depth:	1
+synonyms:	
+
+sense_id:	digit.noun.4
+word:	digit
+gloss:	A narrow extremity of the human hand or foot: a finger, thumb, or toe.
+tags:	en, anatomy
+depth:	1
+synonyms:
+
+sense_id:	gum.noun.3
+word:	gum
+gloss:	Chewing gum.
+tags:	en, mostly, uncountable
+depth:	1
+synonyms:
+
+sense_id:	gum.verb.0
+word:	gum
+gloss:	To chew, especially of a toothless person or animal.
+tags:	
+depth:	1
+synonyms:	
+
+sense_id:	java.noun.0
+word:	Java
+gloss:	An island of Indonesia in the Malay Archipelago.
+tags:	
+depth:	1
+synonyms:	
+
+sense_id:	java.noun.1
+word:	Java
+gloss:	An object-oriented, garbage-collected computer programming language.
+tags:	en, computer language
+depth:	1
+synonyms:
+
+sense_id:	letter.noun.0
+word:	letter
+gloss:	A symbol in an alphabet.
+tags:	
+depth:	1
+synonyms:	
+
+sense_id:	letter.noun.1
+word:	letter
+gloss:	A written or printed communication, generally longer and more formal than a note.
+tags:	
+depth:	1
+synonyms:
+
+sense_id:	match.noun.0
+word:	match
+gloss:	A competitive sporting event such as a boxing meet, a baseball game, or a cricket match.
+tags:	en, sports
+depth:	1
+synonyms:	
+
+sense_id:	match.noun.11
+word:	match
+gloss:	A device made of wood or paper, at the tip coated with chemicals that ignite with the friction of being dragged (struck) against a rough dry surface.
+tags:	
+depth:	1
+synonyms:	spunk
+
+sense_id:	nail.noun.4
+word:	nail
+gloss:	A spike-shaped metal fastener used for joining wood or similar materials. The "nail" is generally driven through two or more layers of material by means of impacts from a hammer or other device. It is then held in place by friction.
+tags:	
+depth:	1
+synonyms:
+
+sense_id:	nail.noun.0
+word:	nail
+gloss:	The thin, horny plate at the ends of fingers and toes on humans and some other animals.
+tags:	
+depth:	1
+synonyms:	
+
+sense_id:	pitcher.noun.4
+word:	pitcher
+gloss:	A wide-mouthed, deep vessel for holding liquids, with a spout or protruding lip and a handle; a water jug or jar with a large ear or handle.
+tags:	
+depth:	1
+synonyms:
+
+sense_id:	pitcher.noun.1
+word:	pitcher
+gloss:	, the player who delivers the ball to the batter.
+tags:	en, baseball, softball
+depth:	1
+synonyms:	
+
+sense_id:	pupil.noun.0
+word:	pupil
+gloss:	(student)A learner under the supervision of a teacher or professor.
+tags:	
+depth:	1
+synonyms:	
+
+sense_id:	pupil.noun.2
+word:	pupil
+gloss:	The hole in the middle of the iris of the eye, through which light passes to be focused on the retina.
+tags:	en, anatomy
+depth:	1
+synonyms:	
+
+sense_id:	ring.noun.13
+word:	ring
+gloss:	A place where some sports or exhibitions take place; notably a circular or comparable arena, such as a boxing ring or a circus ring; hence the field of a political contest.
+tags:	
+depth:	1
+synonyms:	
+
+sense_id:	ring.noun.2
+word:	ring
+gloss:	A round piece of (precious) metal worn around the finger or through the ear, nose, etc.
+tags:	
+depth:	2
+synonyms:
+
+sense_id:	rock.noun.21
+word:	rock
+gloss:	A style of music characterized by basic drum-beat, generally 4/4 riffs, based on (usually electric) guitar, bass guitar, drums(,) and vocals.
+tags:	
+depth:	1
+synonyms:	
+
+sense_id:	rock.noun.1
+word:	rock
+gloss:	The naturally occurring aggregate of solid mineral matter that constitutes a significant part of the earth's crust.
+tags:	en, uncountable
+depth:	2
+synonyms:
+
+sense_id:	ruler.noun.0
+word:	ruler
+gloss:	A (usually rigid), flat, rectangular measuring or drawing device with graduations in units of measurement; a straightedge with markings.
+tags:	
+depth:	1
+synonyms:	
+
+sense_id:	ruler.noun.1
+word:	ruler
+gloss:	A person who rules or governs; someone or something that exercises dominion or controlling power over others.
+tags:	
+depth:	1
+synonyms:
+
+sense_id:	seal.noun.1
+word:	seal
+gloss:	A bearing representing a creature something like a walrus.
+tags:	en, heraldry
+depth:	1
+synonyms:
+
+sense_id:	seal.noun.9
+word:	seal
+gloss:	A tight closure, secure against leakage.
+tags:	
+depth:	1
+synonyms:
+
+sense_id:	spring.noun.1
+word:	spring
+gloss:	The season of the year in temperate regions in which plants spring from the ground and into bloom and dormant animals spring to life, variously reckoned as
+tags:	en, countable
+depth:	1
+synonyms:	springtime
+
+sense_id:	spring.noun.9
+word:	spring
+gloss:	A mechanical device made of flexible or coiled material that exerts force and attempts to spring back when bent, compressed, or stretched.
+tags:	
+depth:	2
+synonyms:	coil
+
+sense_id:	trunk.noun.1
+word:	trunk
+gloss:	The usually single, more or less upright part of a tree, between the roots and the branches: the tree trunk.
+tags:	
+depth:	2
+synonyms:	
+
+sense_id:	trunk.noun.7
+word:	trunk
+gloss:	The luggage storage compartment of a sedan/saloon style car; a boot
+tags:	en, US, Canada, automotive
+depth:	2
+synonyms:
+>>>>>>> 0b651d99b6b1ec229c5aba9494e7d74d047901d9
