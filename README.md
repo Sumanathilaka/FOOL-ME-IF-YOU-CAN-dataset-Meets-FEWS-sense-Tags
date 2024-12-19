@@ -20,6 +20,19 @@ We managed to secure the below results using our proposed approach.
 - Micro-Averaged F1 Score: 0.8934290447266704
 - Weighted-Averaged F1 Score: 0.8923872663676136
 
+We have also tested corner cases with an o1-preview using the reasoning model by OpenAI. It shows us promising results compared to the GPT 40.
+
+GPT4o
+- Macro-Averaged F1 Score: 0.7763951791033988
+- Micro-Averaged F1 Score: 0.7793594306049823
+- Weighted-Averaged F1 Score: 0.7771829554222441
+
+o1-preview
+- Macro-Averaged F1 Score: 0.7374199190986163
+- Micro-Averaged F1 Score: 0.802491103202847
+- Weighted-Averaged F1 Score: 0.799921084936099
+
+All the tested code blocks are available in the repo.
 
 # Dataset Description from Original paper
 
