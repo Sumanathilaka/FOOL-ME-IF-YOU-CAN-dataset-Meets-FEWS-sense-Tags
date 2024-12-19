@@ -22,12 +22,16 @@ We managed to secure the below results using our proposed approach.
 
 
 # Dataset Description from Original paper
+
 WSD_1 and WSD_train
 -  includes sentences with unambiguous context.
+  
 WSD_2:
 - includes sentences with unambiguous context + an adjective that supports and suits the homonyms intended meaning in that context
+  
 WSD_3:
-- includes sentences with ambiguous context since it includes an adjective that does NOT suit or support the intended meaning of the homonym in that sentences; the adjective suits another meaning 
+- includes sentences with ambiguous context since it includes an adjective that does NOT suit or support the intended meaning of the homonym in that sentences; the adjective suits another meaning
+  
 WSD_4:
 - includes sentences with ambiguous context since it contains another noun that is typically used in the context of the opposing meaning of the homonym 
 
