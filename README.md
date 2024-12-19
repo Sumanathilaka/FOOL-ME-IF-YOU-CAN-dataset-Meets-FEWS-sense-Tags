@@ -7,13 +7,13 @@ https://aclanthology.org/2024.emnlp-main.290/
 - Fews Dataset Paper
 https://nlp.cs.washington.edu/fews/
 
-#Proposed approach
+# Proposed approach
 - In the shared notebooks, we attempted to use the Fewshot-COT prompting approach with the Fewshot Frequency normalization approach to enrich the inference process with in-context learning.
 - mydictionary.json file contains the vectors created for training data based on the tree structure. The parent node is the ambiguous word, while vectors and respective sentences are saved in leaf nodes.
 - This structure helps us retrieve semantically similar sentences for a few shot inference processes. Three examples for each case are shared.
    
 
-#Results
+# Results
 We were mainly focusing on uplifting the results of GPT 4o with the WSD 3 dataset, as it is showing clear low results.
 We managed to secure the below results using our proposed approach.
 - Macro-Averaged F1 Score: 0.8712633249368236
