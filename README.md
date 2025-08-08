@@ -50,6 +50,9 @@ WSD_4:
 
 If you use this, You can site using :
 
+## Citation
+
+```bibtex
 @article{sumanathilaka2025glossgpt,
   title={GlossGPT: GPT for Word Sense Disambiguation using Few-shot Chain-of-Thought Prompting},
   author={Sumanathilaka, Deshan and Micallef, Nicholas and Hough, Julian},
@@ -59,4 +62,5 @@ If you use this, You can site using :
   year={2025},
   publisher={Elsevier}
 }
+
 
